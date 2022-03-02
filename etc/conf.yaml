@@ -1,0 +1,4 @@
+working_dir: /opt/omni-packager-workspace
+debug: True
+toolchain_repo: /etc/omni-packager/openEuler.repo
+toolchain_packages: /etc/omni-packager/toolchain_x86.json

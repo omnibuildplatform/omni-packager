@@ -1,0 +1,30 @@
+{
+  "packages": [
+    "glibc",
+    "bash",
+    "rpm",
+    "rpm-build",
+    "rpm-devel",
+    "rpm-libs",
+    "make",
+    "libcap",
+    "libacl",
+    "libdb",
+    "bzip2",
+    "zlib",
+    "xz-libs",
+    "zstd",
+    "lua",
+    "popt",
+    "openssl-libs",
+    "attr",
+    "libselinux",
+    "pcre2",
+    "dbus-libs",
+    "systemd-libs",
+    "lz4",
+    "libgcrypt",
+    "libgpg-error",
+    "openEuler-rpm-config"
+  ]
+}
